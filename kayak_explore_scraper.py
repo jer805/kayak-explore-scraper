@@ -185,7 +185,7 @@ def send_email(results):
     mail = smtplib.SMTP('smtp.gmail.com', 587)
     mail.ehlo()
     mail.starttls()
-    mail.login('fmcbean19', password)
+    mail.login('username', password)
     mail.sendmail(sender, receiver, message.as_string())
     mail.quit()
     
