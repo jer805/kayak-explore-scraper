@@ -1,6 +1,6 @@
 # Flight scraping from the Kayak explore feature
 
-![Kayak explore](kayak.png)
+[![Kayak explore scraper explanation](https://youtu.be/b9PZgzXJBIk/0.jpg)](https://youtu.be/b9PZgzXJBIk "Kayak explroe scraper")
 
 This program is useful if you want to take a vacation somewhere exotic, but don't know where!
 
